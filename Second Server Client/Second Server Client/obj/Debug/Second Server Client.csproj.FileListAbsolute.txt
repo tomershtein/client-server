@@ -1,0 +1,27 @@
+E:\David Project\Second Server Client\Second Server Client\obj\Debug\Second Server Client.csprojAssemblyReference.cache
+E:\David Project\Second Server Client\Second Server Client\obj\Debug\Second_Server_Client.Form1.resources
+E:\David Project\Second Server Client\Second Server Client\obj\Debug\Second_Server_Client.Properties.Resources.resources
+E:\David Project\Second Server Client\Second Server Client\obj\Debug\Second Server Client.csproj.GenerateResource.cache
+E:\David Project\Second Server Client\Second Server Client\bin\Debug\Second Server Client.exe.config
+E:\David Project\Second Server Client\Second Server Client\bin\Debug\Second Server Client.exe
+E:\David Project\Second Server Client\Second Server Client\bin\Debug\Second Server Client.pdb
+E:\David Project\Second Server Client\Second Server Client\obj\Debug\Second Server Client.exe
+E:\David Project\Second Server Client\Second Server Client\obj\Debug\Second Server Client.pdb
+H:\Second Server Client\Second Server Client\bin\Debug\Second Server Client.exe.config
+H:\Second Server Client\Second Server Client\bin\Debug\Second Server Client.exe
+H:\Second Server Client\Second Server Client\bin\Debug\Second Server Client.pdb
+H:\Second Server Client\Second Server Client\obj\Debug\Second Server Client.csprojAssemblyReference.cache
+H:\Second Server Client\Second Server Client\obj\Debug\Second_Server_Client.Form1.resources
+H:\Second Server Client\Second Server Client\obj\Debug\Second_Server_Client.Properties.Resources.resources
+H:\Second Server Client\Second Server Client\obj\Debug\Second Server Client.csproj.GenerateResource.cache
+H:\Second Server Client\Second Server Client\obj\Debug\Second Server Client.exe
+H:\Second Server Client\Second Server Client\obj\Debug\Second Server Client.pdb
+E:\Second Server Client\Second Server Client\bin\Debug\Second Server Client.exe.config
+E:\Second Server Client\Second Server Client\bin\Debug\Second Server Client.exe
+E:\Second Server Client\Second Server Client\bin\Debug\Second Server Client.pdb
+E:\Second Server Client\Second Server Client\obj\Debug\Second Server Client.csprojAssemblyReference.cache
+E:\Second Server Client\Second Server Client\obj\Debug\Second_Server_Client.Form1.resources
+E:\Second Server Client\Second Server Client\obj\Debug\Second_Server_Client.Properties.Resources.resources
+E:\Second Server Client\Second Server Client\obj\Debug\Second Server Client.csproj.GenerateResource.cache
+E:\Second Server Client\Second Server Client\obj\Debug\Second Server Client.exe
+E:\Second Server Client\Second Server Client\obj\Debug\Second Server Client.pdb
